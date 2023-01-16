@@ -9,7 +9,7 @@ const db = mysql.createConnection(
     {
       host: 'localhost',
       user: 'root',
-      password: 'password',
+      password: 'Tsehay08!',
       database: 'emptrack_db',
       multipleStatements: true
     },
